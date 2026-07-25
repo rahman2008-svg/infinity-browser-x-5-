@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Browser X",
+  "description": "Fast, private, rule-based Android browser with smart address bar, multi-tab sessions, and ad-blocking rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
